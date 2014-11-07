@@ -14,5 +14,17 @@ filetype plugin indent on
 
 set laststatus=2
 
+""" environment, encoding, fileformat
+set encoding=utf-8
+set ff=unix
+set shell=/bin/bash
 
+""" tabbing & indentation
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set expandtab
+set smarttab
+set smartindent
+set autoindent
 
