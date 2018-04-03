@@ -28,3 +28,5 @@ set smarttab
 set smartindent
 set autoindent
 
+""" misc
+set number
