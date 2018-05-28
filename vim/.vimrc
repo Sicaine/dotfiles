@@ -30,3 +30,4 @@ set autoindent
 
 """ misc
 set number
+inoremap jj <Esc>
