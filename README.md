@@ -14,4 +14,11 @@ Add to ~/bash.rc:
 
     eval "`dircolors -b ~/.dircolors`"
 
+## git
+git diffs -> git diff --staged
+git lg -> git log --color --graph --pretty=format...
 
+### Remember
+- git clone --mirror -> git config --bool core.bare false -> git reset --hard
+- git clean
+- HEAD^^^ HEAD~3
