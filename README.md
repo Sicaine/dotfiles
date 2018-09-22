@@ -16,6 +16,7 @@ Add to ~/bash.rc:
 
 ## git
 git diffs -> git diff --staged
+
 git lg -> git log --color --graph --pretty=format...
 
 ### Remember
