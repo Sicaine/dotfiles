@@ -16,6 +16,7 @@ set laststatus=2
 
 """ key mapping
 :imap jj <Esc>
+:imap kj <Esc>
 
 """ environment, encoding, fileformat
 set encoding=utf-8
@@ -33,4 +34,3 @@ set autoindent
 
 """ misc
 set number
-inoremap jj <Esc>
