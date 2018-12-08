@@ -14,6 +14,9 @@ filetype plugin indent on
 
 set laststatus=2
 
+""" key mapping
+:imap jj <Esc>
+
 """ environment, encoding, fileformat
 set encoding=utf-8
 set ff=unix
